@@ -1,0 +1,31 @@
+{
+  "name": "dz-41",
+  "version": "1.0.0",
+  "description": "dz",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UncleGennady/dz-41.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "sasha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UncleGennady/dz-41/issues"
+  },
+  "homepage": "https://github.com/UncleGennady/dz-41#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.16.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "prettier": "^2.6.2"
+  }
+}
